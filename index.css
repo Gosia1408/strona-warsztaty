@@ -1,0 +1,42 @@
+body{
+    background: url("./pexels-jacub-gomez-1142950.jpg");
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.main-img{
+    width:400px;
+    border-radius:25px;
+}
+
+.container{
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.welcome{
+    display:flex;
+}
+
+.welcome-text{
+    margin:30px;
+}
+
+.content{
+    width:800px;
+    margin:auto;
+}
+.name{
+    font-size: 52px;
+    width:100%;
+    text-align: center;
+}
+.name-box{
+    width:100%;
+}
+.instagram{
+    width:60px;
+}
